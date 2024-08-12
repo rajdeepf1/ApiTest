@@ -1,0 +1,29 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "isEmployed": true,
+  "skills": [
+    "JavaScript",
+    "Python",
+    "SQL"
+  ],
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "postalCode": "12345"
+  },
+  "projects": [
+    {
+      "name": "Website Redesign",
+      "client": "ABC Corp",
+      "duration": "3 months"
+    },
+    {
+      "name": "Data Analysis",
+      "client": "XYZ Inc",
+      "duration": "2 months"
+    }
+  ],
+  "image": "https://example.com/images/johndoe.jpg"
+}
